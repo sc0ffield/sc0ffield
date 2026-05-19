@@ -18,6 +18,10 @@ Aerospace engineering student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sc0ffield"><img src="https://github-readme-stats.vercel.app/api?username=sc0ffield&show_icons=true&hide=stars,prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sc0ffield's GitHub stats" /></a>
+<a href="https://github.com/sc0ffield">
+  <img src="https://github-readme-stats.vercel.app/api?username=sc0ffield&show_icons=true&hide=stars,prs,issues&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="sc0ffield's GitHub stats" />
+</a>
 
-<a href="https://github.com/sc0ffield" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0ffield&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sc0ffield" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0ffield&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
